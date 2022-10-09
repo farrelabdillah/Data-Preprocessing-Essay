@@ -2,11 +2,9 @@
 
 <h2>Apa itu Data Preprocessing?</h2> 
 
-data preprocessing adalah teknik yang digunakan untuk mengubah data mentah dalam format yang berguna dan efisien.
-Inisiatif ini diperlukan karena data mentah seringkali tidak lengkap dan memiliki format yang tidak konsisten. 
-Kualitas data sendiri memiliki korelasi langsung dengan keberhasilan setiap proyek yang melibatkan analisis data.
-Preprocessing sendiri melibatkan validasi dan imputasi data. 
-
+data preprocessing adalah sebuah teknik yang digunakan sebagai pengubah bentuk raw data menjadi data yang efisien untuk digunakan.
+mengapa data preprocessing dibutuhkan? sebuah raw data seringkali berbentuk tidak sempurna dan tidak konsisten, serta sulit untuk dilakukan sorting.
+kualitas data tentunya sangat berkorelasi dengan keberhasilan project yang termasuk kedalam ranah analisis data. oleh karena itu, data preprocessing bertujuan untuk melakukan validasi dan imputasi data.  
 ![datapreprocess](https://user-images.githubusercontent.com/90243605/194757447-049eb4b7-b36b-4480-a4a1-70c9f3d49b2e.PNG)
 
 Tujuan dari validasi adalah untuk menilai tingkat kelengkapan dan akurasi data yang tersaring. 
